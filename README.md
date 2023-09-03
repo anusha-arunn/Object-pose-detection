@@ -4,7 +4,7 @@ Predict the Yoga pose using CNN.</br>
 
 ## Dataset
 
-The dataset can be downloaded from [Kaggle here](https://www.kaggle.com/datasets/shrutisaxena/yoga-pose-image-classification-dataset).
+The dataset can be downloaded from [Kaggle here](https://www.kaggle.com/datasets/shrutisaxena/yoga-pose-image-classification-dataset). Place the downloaded data in _YogaDataset_ folder
 
 #### Dataset Description
 
